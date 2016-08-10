@@ -11,24 +11,26 @@ body {
 }
 
 div {
-	background: #c0dec5;
-  margin:(4em,4em,4em,4em)
-  padding:(2em, 3em, 0, 3em)
+	  background:#c0dec5;
+  margin:(4em 4em 4em  4em);
+  padding:2em 3em 0 3em;
 }
-span{ font-variant:small-caps; 
-      font-family:Tahoma,sans-serif;
-     letter-spacing:.25em;
-     padding: 0 .2em;
-     background-color: rgba(100,150,150,.5)
+span{ font-variant: small-caps;
+    font-family: Tahoma, sans-serif;
+      letter-spacing: .25em;
+     padding: 0.2em;
+     background-color: rgba(100,150,150,.5);
 }
 
 
 p {
 	font-family:Georgia, serif;
 	font-size: 20px;
-	line-height: 1.4em;
-text-align:right-allign;
+line-height: 1.4em;}
 
+  
+right {
+    text-align: right;
 }
 </style>
 <body>
