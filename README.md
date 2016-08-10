@@ -36,7 +36,7 @@ right {
 <body>
 	<div>
 	<p>Build a good <span>name</span>. Keep your <span>name</span> clean. Be concerned about doing good work. Protect your work, and if you build a good <span>name</span>, eventually that <span>name</span> will be its own currency.</p>
-	<p class=" right-align ">— William S. Burroughs’s advice to Patti Smith</p>
+	<p class=" right">— William S. Burroughs’s advice to Patti Smith</p>
 	</div>
 </body>
 
